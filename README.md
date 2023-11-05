@@ -33,12 +33,12 @@ Example:
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Thabhelo Duve (AAdvantage No)
+* Takudzwa Vuma (AAdvantage No)
+* Izuchukwu Mba (AAdvantage No)
 
 ### School Name 🏫
-The ABC School
+Talladega College
 
 ### Team Name 🏷
 Coding Costars
